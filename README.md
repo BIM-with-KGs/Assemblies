@@ -1,6 +1,6 @@
 # Installation files
 1. Close every instance of Rhino, Excel, Revit that you have open.
-1. Run BHoM Installer
+1. Run BHoM Installer, which you can download from https://bhom.xyz or you can also find in this repo in the `Installer` folder. When you download it, if you get any security warning, please ignore it. In your browser, choose "keep anyway". When opening the installer, please select "More info" and then "Install anyway".
 1. Download `Assemblies/Complete.zip` file. Check the file properties (right click -> Properties) and make sure it is "unlocked".
 1. Copy the content of `Complete.zip` it in your local BHoM installation folder, generally `C:\ProgramData\BHoM\Assemblies`, overriding everything if prompted.
 1. Install [Github Desktop](https://desktop.github.com/) if you don't have it.
