@@ -1,4 +1,4 @@
-# Installation files
+# Installation
 1. Close every instance of Rhino, Excel, Revit that you have open.
 1. Run BHoM Installer, which you can download from https://bhom.xyz or you can also find in this repo in the `Installer` folder. When you download it, if you get any security warning, please ignore it. In your browser, choose "keep anyway". When opening the installer, please select "More info" and then "Install anyway".
 1. Download [`Assemblies/Complete.zip`](https://github.com/BIM-with-KGs/Installation_files/tree/main/Assemblies) file from this repo. Once downloaded, check the file properties (right click -> Properties) and make sure it is "unlocked".
