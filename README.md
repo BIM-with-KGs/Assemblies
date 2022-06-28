@@ -1,7 +1,7 @@
 # Installation instructions
 
 1. Close every instance of Rhino, Excel, Revit that you have open.
-2. Run BHoM Installer, which you can download from https://bhom.xyz. When you download it, if you get any security warning, please ignore it. In your browser, choose "keep anyway". When opening the installer, please select "More info" and then "Install anyway".
+2. Run BHoM Installer, which you can download from https://bhom.xyz. If you have difficulty getting it from there, you can also download it [from here](https://github.com/BIM-with-KGs/Installation_files/tree/main/Installer).  When you download it, if you get any security warning, please ignore it. In your browser, choose "keep anyway". When opening the installer, please select "More info" and then "Install anyway".
 3. Download all DLL files in the [`_Assemblies`](https://github.com/BHoM/RDF_Prototypes/tree/main/_Assemblies) folder from the RDF_Prototypes repo. Once downloaded, check the file properties (right click -> Properties) and make sure that all the files are "unlocked".
 4. Copy these DLLs in your local BHoM installation folder, generally `C:\ProgramData\BHoM\Assemblies`, overriding everything if prompted. Make sure that the copied dlls are "unlocked" (see previous step) by examining a few random ones. If they're not, try the previous step again, or try using a DLL unlocker utility (google it).
 5. Install [Github Desktop](https://desktop.github.com/) if you don't have it.
