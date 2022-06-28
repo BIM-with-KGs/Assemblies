@@ -15,4 +15,4 @@
 
 # Update instructions
 
-If you have RDF_Prototypes working on your machine but you want to update it to the latest commit, please repeat step 3 and 4.
+If you have successfully installed as per points above and you want to update RDF_Prototypes to the latest commit, please repeat step 3 and 4.
